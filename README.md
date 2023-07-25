@@ -2,13 +2,17 @@
 
 This project shows a real world use case with ELT pipeline using Cloud Storage, BigQuery, Airflow and Cloud Composer
 
-The link to the video : 
+The article on this topic :
+
+https://medium.com/@mazlum.tosun/elt-batch-pipeline-with-cloud-storage-bigquery-orchestrated-by-airflow-composer-8bbfc80bf171
+
+The video in English :
 
 https://youtu.be/XT-xdEtN0dA
 
-The link to the article :
+The video in French :
 
-https://medium.com/@mazlum.tosun/elt-batch-pipeline-with-cloud-storage-bigquery-orchestrated-by-airflow-composer-8bbfc80bf171
+https://youtu.be/gPJDj97rK-I
 
 ### Deploy the Airflow DAG in Composer with Cloud Build from the local machine
 
